@@ -1,12 +1,10 @@
 {
   "name": "@shabbir_habib/basic-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/calculator.js",
   "type": "module",
-  "bin": {
-    "calculate": "./dist/calculator.js"
-  },
+  "bin": "./dist/calculator.js",
   "devDependencies": {
     "@types/inquirer": "^9.0.3",
     "@types/node": "^20.5.6",
