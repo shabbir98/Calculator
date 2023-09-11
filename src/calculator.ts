@@ -57,4 +57,5 @@ do {
   });
 
   result = exitOrContinue.choose;
+  console.clear();
 } while (result === 'y');
